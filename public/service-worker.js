@@ -4,8 +4,8 @@ const FILES_TO_CACHE = [
   '/db.js',
   '/index.js',
   '/manifest.webmanifest',
-  '/assets/images/calculator-icon-sm.png',
-  '/assets/images/calculator-icon.png',
+  '/assets/images/icons/calculator-icon-sm.png',
+  '/assets/images/icons/calculator-icon.png',
   'style.css'
 ];
 
@@ -45,7 +45,7 @@ self.addEventListener(`activate`, event => {
 
 self.addEventListener(`fetch`, event => {
   console.log(`begin fetch`);
-  if (event.request.url.includes(`/api/`)) {
+  if (event.request.url.includes(`/`)) {
     event.respondWith(
       caches
         .open(DATA_CACHE_NAME)
