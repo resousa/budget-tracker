@@ -1,0 +1,20 @@
+{
+  "short_name": "track-it",
+  "name": "track-a-lack-a-loo",
+  "icons": [
+    {
+      "src": "../assets/images/calculator-icon-sm.png" ,
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "../assets/images/calculator-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#808080",
+  "display": "standalone",
+  "theme_color": "#808080"
+}
