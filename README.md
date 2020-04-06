@@ -12,8 +12,8 @@ This Homework assignment was mostly provided. I was required to add a service wo
 Below is an image of the app track-a-lack-a-do with its icon 
 ![screencap](https://github.com/resousa/budget-tracker/blob/master/public/assets/images/app.PNG?raw=true)
 
-Below is an image of the app track-a-lack-a-do with its icon 
-![screencap](https://github.com/resousa/budget-tracker/blob/master/public/assets/images/app.PNG?raw=true)
+Below is an image of the app track-a-lack-a-do deployed
+![screencap](https://github.com/resousa/budget-tracker/blob/master/public/assets/images/app-main.PNG?raw=true)
 ### Technologies
 
 Project created with :
