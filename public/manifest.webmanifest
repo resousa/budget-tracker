@@ -3,12 +3,12 @@
   "name": "track-a-lack-a-do",
   "icons": [
     {
-      "src": "../assets/images/calculator-icon-sm.png" ,
+      "src": "../assets/images/icons/calculator-icon-sm.png" ,
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "../assets/images/calculator-icon.png",
+      "src": "../assets/images/icons/calculator-icon.png",
       "sizes": "512x512",
       "type": "image/png"
     }
